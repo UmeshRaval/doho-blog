@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/doho-blog/static/css/main.f1302bb2.css",
+    "main.js": "/doho-blog/static/js/main.ddac3f83.js",
+    "static/js/787.b747532a.chunk.js": "/doho-blog/static/js/787.b747532a.chunk.js",
+    "index.html": "/doho-blog/index.html",
+    "main.f1302bb2.css.map": "/doho-blog/static/css/main.f1302bb2.css.map",
+    "main.ddac3f83.js.map": "/doho-blog/static/js/main.ddac3f83.js.map",
+    "787.b747532a.chunk.js.map": "/doho-blog/static/js/787.b747532a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f1302bb2.css",
+    "static/js/main.ddac3f83.js"
+  ]
+}
